@@ -7,7 +7,9 @@ import Login from "./Login/Login";
 import Logo from "./Logo/Logo";
 import LogoutButton from "./LogoutButton/LogoutButton";
 import PostCard from "./PostCard/PostCard";
+import Protected from "./Protected/Protected";
 import Select from "./Select/Select";
+import Signup from "./Signup/Signup";
 
 export {
   Button,
@@ -19,5 +21,7 @@ export {
   Logo,
   LogoutButton,
   PostCard,
+  Protected,
   Select,
+  Signup,
 };
