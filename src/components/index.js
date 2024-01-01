@@ -7,7 +7,9 @@ import Login from "./Login/Login";
 import Logo from "./Logo/Logo";
 import LogoutButton from "./LogoutButton/LogoutButton";
 import PostCard from "./PostCard/PostCard";
+import PostForm from "./PostForm/PostForm";
 import Protected from "./Protected/Protected";
+import RealtimeEditor from "./RealTimeEditor/RealtimeEditor";
 import Select from "./Select/Select";
 import Signup from "./Signup/Signup";
 
@@ -21,7 +23,9 @@ export {
   Logo,
   LogoutButton,
   PostCard,
+  PostForm,
   Protected,
+  RealtimeEditor,
   Select,
   Signup,
 };
